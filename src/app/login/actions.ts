@@ -1,0 +1,35 @@
+"use server";
+
+import { AuthError } from "next-auth";
+import { signIn } from "@/auth";
+import { loginSchema, type AuthActionState } from "@/lib/validations/auth";
+
+export async function loginAction(
+  _prevState: AuthActionState,
+  formData: FormData,
+): Promise<AuthActionState> {
+  const parsed = loginSchema.safeParse({
+    email: formData.get("email"),
+    password: formData.get("password"),
+  });
+
+  if (!parsed.success) {
+    return { error: parsed.error.issues[0]?.message ?? "Invalid login details." };
+  }
+
+  try {
+    await signIn("credentials", {
+      email: parsed.data.email,
+      password: parsed.data.password,
+      redirectTo: "/dashboard",
+    });
+  } catch (error) {
+    if (error instanceof AuthError) {
+      return { error: "Incorrect email or password." };
+    }
+
+    throw error;
+  }
+
+  return {};
+}
