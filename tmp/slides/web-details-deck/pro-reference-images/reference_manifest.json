@@ -1,0 +1,48 @@
+{
+  "reference_dir": "/Users/socket9/Documents/learn-codex-app/tmp/slides/web-details-deck/pro-reference-images",
+  "deck_size": {
+    "width": 1280,
+    "height": 720
+  },
+  "generation_mode": "platform-native-imagegen",
+  "instructions": [
+    "Use the platform-native imagegen tool once per prompt.",
+    "Do not display generated images in chat unless the user explicitly asks to review them.",
+    "Generate slide 1 first as the visual style setter.",
+    "For slides 2..N, use slide 1 as a style reference when the platform supports image context.",
+    "Move or copy each selected generated image to its expected_image_path.",
+    "Before finalizing the response, delete temporary imagegen files created during the run unless the user explicitly requested those image files as deliverables."
+  ],
+  "slides": [
+    {
+      "index": 1,
+      "title": "Website overview and product positioning",
+      "prompt_path": "/Users/socket9/Documents/learn-codex-app/tmp/slides/web-details-deck/pro-reference-images/prompts/slide-01.txt",
+      "expected_image_path": "/Users/socket9/Documents/learn-codex-app/tmp/slides/web-details-deck/pro-reference-images/slide-01.png"
+    },
+    {
+      "index": 2,
+      "title": "User journey across the four main screens",
+      "prompt_path": "/Users/socket9/Documents/learn-codex-app/tmp/slides/web-details-deck/pro-reference-images/prompts/slide-02.txt",
+      "expected_image_path": "/Users/socket9/Documents/learn-codex-app/tmp/slides/web-details-deck/pro-reference-images/slide-02.png"
+    },
+    {
+      "index": 3,
+      "title": "Authentication and data architecture",
+      "prompt_path": "/Users/socket9/Documents/learn-codex-app/tmp/slides/web-details-deck/pro-reference-images/prompts/slide-03.txt",
+      "expected_image_path": "/Users/socket9/Documents/learn-codex-app/tmp/slides/web-details-deck/pro-reference-images/slide-03.png"
+    },
+    {
+      "index": 4,
+      "title": "UI/UX design language and page composition",
+      "prompt_path": "/Users/socket9/Documents/learn-codex-app/tmp/slides/web-details-deck/pro-reference-images/prompts/slide-04.txt",
+      "expected_image_path": "/Users/socket9/Documents/learn-codex-app/tmp/slides/web-details-deck/pro-reference-images/slide-04.png"
+    },
+    {
+      "index": 5,
+      "title": "Delivery readiness, quality checks, and roadmap",
+      "prompt_path": "/Users/socket9/Documents/learn-codex-app/tmp/slides/web-details-deck/pro-reference-images/prompts/slide-05.txt",
+      "expected_image_path": "/Users/socket9/Documents/learn-codex-app/tmp/slides/web-details-deck/pro-reference-images/slide-05.png"
+    }
+  ]
+}

@@ -1,0 +1,141 @@
+{"kind":"deck","id":"web-details-deck","slideCount":5,"slideSize":{"width":1280,"height":720}}
+{"kind":"slide","slide":1,"id":"p1ky1g"}
+{"kind":"slide","slide":2,"id":"3w2ewi"}
+{"kind":"slide","slide":3,"id":"w9ihrf"}
+{"kind":"slide","slide":4,"id":"7kdguz"}
+{"kind":"slide","slide":5,"id":"dvonbv"}
+{"kind":"image","slide":1,"id":"2","role":"art plate","path":"/Users/socket9/Documents/learn-codex-app/tmp/slides/web-details-deck/pro-reference-images/slide-01.png","bbox":[0,0,1280,720]}
+{"kind":"shape","slide":1,"id":"3","role":"cover contrast overlay","shapeType":"rect","bbox":[0,0,1280,720]}
+{"kind":"shape","slide":1,"id":"4","role":"cover accent rule","shapeType":"rect","bbox":[64,86,7,455]}
+{"kind":"textbox","slide":1,"id":"5","role":"kicker","text":"Website Overview","textPreview":"Website Overview","textChars":16,"textLines":1,"bbox":[86,88,520,26]}
+{"kind":"textbox","slide":1,"id":"6","role":"cover title","text":"Codex Next.js Auth App","textPreview":"Codex Next.js Auth App","textChars":22,"textLines":1,"bbox":[82,130,785,184]}
+{"kind":"textbox","slide":1,"id":"7","role":"cover subtitle","text":"A polished authentication starter that combines a premium first impression, secure credentials flow, and a clean technical foundation for continued product work.","textPreview":"A polished authentication starter that combines a premium first impression, secure credentials flow, and a clean technical foundation for continued product work.","textChars":161,"textLines":1,"bbox":[86,326,610,86]}
+{"kind":"shape","slide":1,"id":"8","role":"cover moment panel","shapeType":"roundRect","bbox":[86,456,390,92]}
+{"kind":"textbox","slide":1,"id":"9","role":"cover moment","text":"From first impression to protected workspace","textPreview":"From first impression to protected workspace","textChars":44,"textLines":1,"bbox":[112,478,336,40]}
+{"kind":"image","slide":2,"id":"2","role":"art plate","path":"/Users/socket9/Documents/learn-codex-app/tmp/slides/web-details-deck/pro-reference-images/slide-02.png","bbox":[0,0,1280,720]}
+{"kind":"shape","slide":2,"id":"3","role":"content contrast overlay","shapeType":"rect","bbox":[0,0,1280,720]}
+{"kind":"textbox","slide":2,"id":"4","role":"header","text":"USER JOURNEY","textPreview":"USER JOURNEY","textChars":12,"textLines":1,"bbox":[64,34,430,24]}
+{"kind":"textbox","slide":2,"id":"5","role":"header","text":"02 / 05","textPreview":"02 / 05","textChars":7,"textLines":1,"bbox":[1114,34,104,24]}
+{"kind":"shape","slide":2,"id":"6","role":"header rule","shapeType":"rect","bbox":[64,64,1152,2]}
+{"kind":"shape","slide":2,"id":"7","role":"header marker","shapeType":"ellipse","bbox":[57,57,16,16]}
+{"kind":"textbox","slide":2,"id":"8","role":"title","text":"A clear flow across four key product moments","textPreview":"A clear flow across four key product moments","textChars":44,"textLines":1,"bbox":[64,86,760,142]}
+{"kind":"textbox","slide":2,"id":"9","role":"subtitle","text":"The experience moves cleanly from discovery to access, onboarding, and a protected destination without breaking visual continuity.","textPreview":"The experience moves cleanly from discovery to access, onboarding, and a protected destination without breaking visual continuity.","textChars":130,"textLines":1,"bbox":[66,234,720,70]}
+{"kind":"shape","slide":2,"id":"10","role":"card panel: Landing","shapeType":"roundRect","bbox":[84,330,516,166]}
+{"kind":"shape","slide":2,"id":"11","role":"card accent: Landing","shapeType":"rect","bbox":[84,330,8,166]}
+{"kind":"shape","slide":2,"id":"12","role":"icon badge","shapeType":"ellipse","bbox":[106,354,54,54]}
+{"kind":"shape","slide":2,"id":"13","role":"icon glyph","shapeType":"rect","bbox":[122,383,6,12]}
+{"kind":"shape","slide":2,"id":"14","role":"icon glyph","shapeType":"rect","bbox":[131,375,6,20]}
+{"kind":"shape","slide":2,"id":"15","role":"icon glyph","shapeType":"rect","bbox":[140,368,6,27]}
+{"kind":"textbox","slide":2,"id":"16","role":"card label","text":"Landing","textPreview":"Landing","textChars":7,"textLines":1,"bbox":[172,352,408,28]}
+{"kind":"textbox","slide":2,"id":"17","role":"card body: Landing","text":"The home page frames the product\nclearly and guides visitors toward the\nnext meaningful action.","textPreview":"The home page frames the product | clearly and guides visitors toward the | next meaningful action.","textChars":95,"textLines":3,"bbox":[108,416,468,58]}
+{"kind":"shape","slide":2,"id":"18","role":"card panel: Sign In","shapeType":"roundRect","bbox":[626,330,516,166]}
+{"kind":"shape","slide":2,"id":"19","role":"card accent: Sign In","shapeType":"rect","bbox":[626,330,8,166]}
+{"kind":"shape","slide":2,"id":"20","role":"icon badge","shapeType":"ellipse","bbox":[648,354,54,54]}
+{"kind":"shape","slide":2,"id":"21","role":"icon glyph","shapeType":"ellipse","bbox":[661,372,10,10]}
+{"kind":"shape","slide":2,"id":"22","role":"icon glyph","shapeType":"ellipse","bbox":[679,381,10,10]}
+{"kind":"shape","slide":2,"id":"23","role":"icon glyph","shapeType":"rect","bbox":[670,379,19,3]}
+{"kind":"textbox","slide":2,"id":"24","role":"card label","text":"Sign In","textPreview":"Sign In","textChars":7,"textLines":1,"bbox":[714,352,408,28]}
+{"kind":"textbox","slide":2,"id":"25","role":"card body: Sign In","text":"The login page is focused and calm for\nreturning users who want fast access.","textPreview":"The login page is focused and calm for | returning users who want fast access.","textChars":76,"textLines":2,"bbox":[650,416,468,58]}
+{"kind":"shape","slide":2,"id":"26","role":"card panel: Register","shapeType":"roundRect","bbox":[84,514,516,166]}
+{"kind":"shape","slide":2,"id":"27","role":"card accent: Register","shapeType":"rect","bbox":[84,514,8,166]}
+{"kind":"shape","slide":2,"id":"28","role":"icon badge","shapeType":"ellipse","bbox":[106,538,54,54]}
+{"kind":"shape","slide":2,"id":"29","role":"icon glyph","shapeType":"roundRect","bbox":[119,553,26,13]}
+{"kind":"shape","slide":2,"id":"30","role":"icon glyph","shapeType":"roundRect","bbox":[124,562,26,13]}
+{"kind":"shape","slide":2,"id":"31","role":"icon glyph","shapeType":"roundRect","bbox":[129,571,20,10]}
+{"kind":"textbox","slide":2,"id":"32","role":"card label","text":"Register","textPreview":"Register","textChars":8,"textLines":1,"bbox":[172,536,408,28]}
+{"kind":"textbox","slide":2,"id":"33","role":"card body: Register","text":"The registration screen keeps\nonboarding simple and signs users in\nright after account creation.","textPreview":"The registration screen keeps | onboarding simple and signs users in | right after account creation.","textChars":96,"textLines":3,"bbox":[108,600,468,58]}
+{"kind":"shape","slide":2,"id":"34","role":"card panel: Dashboard","shapeType":"roundRect","bbox":[626,514,516,166]}
+{"kind":"shape","slide":2,"id":"35","role":"card accent: Dashboard","shapeType":"rect","bbox":[626,514,8,166]}
+{"kind":"shape","slide":2,"id":"36","role":"icon badge","shapeType":"ellipse","bbox":[648,538,54,54]}
+{"kind":"shape","slide":2,"id":"37","role":"icon glyph","shapeType":"rect","bbox":[664,567,6,12]}
+{"kind":"shape","slide":2,"id":"38","role":"icon glyph","shapeType":"rect","bbox":[673,559,6,20]}
+{"kind":"shape","slide":2,"id":"39","role":"icon glyph","shapeType":"rect","bbox":[682,552,6,27]}
+{"kind":"textbox","slide":2,"id":"40","role":"card label","text":"Dashboard","textPreview":"Dashboard","textChars":9,"textLines":1,"bbox":[714,536,408,28]}
+{"kind":"textbox","slide":2,"id":"41","role":"card body: Dashboard","text":"The protected dashboard confirms\nsession state and gives authenticated\nusers a clear sense of arrival.","textPreview":"The protected dashboard confirms | session state and gives authenticated | users a clear sense of arrival.","textChars":102,"textLines":3,"bbox":[650,600,468,58]}
+{"kind":"image","slide":3,"id":"2","role":"art plate","path":"/Users/socket9/Documents/learn-codex-app/tmp/slides/web-details-deck/pro-reference-images/slide-03.png","bbox":[0,0,1280,720]}
+{"kind":"shape","slide":3,"id":"3","role":"metrics contrast overlay","shapeType":"rect","bbox":[0,0,1280,720]}
+{"kind":"textbox","slide":3,"id":"4","role":"header","text":"TRUST LAYER","textPreview":"TRUST LAYER","textChars":11,"textLines":1,"bbox":[64,34,430,24]}
+{"kind":"textbox","slide":3,"id":"5","role":"header","text":"03 / 05","textPreview":"03 / 05","textChars":7,"textLines":1,"bbox":[1114,34,104,24]}
+{"kind":"shape","slide":3,"id":"6","role":"header rule","shapeType":"rect","bbox":[64,64,1152,2]}
+{"kind":"shape","slide":3,"id":"7","role":"header marker","shapeType":"ellipse","bbox":[57,57,16,16]}
+{"kind":"textbox","slide":3,"id":"8","role":"title","text":"Authentication and persistence are lightweight but disciplined","textPreview":"Authentication and persistence are lightweight but disciplined","textChars":62,"textLines":1,"bbox":[64,86,700,142]}
+{"kind":"textbox","slide":3,"id":"9","role":"subtitle","text":"The core stack is intentionally simple for local development while still covering the fundamentals of validation, session handling, and secure credential storage.","textPreview":"The core stack is intentionally simple for local development while still covering the fundamentals of validation, session handling, and secure credential storage.","textChars":162,"textLines":1,"bbox":[66,234,700,70]}
+{"kind":"shape","slide":3,"id":"10","role":"metric panel: User, Account, Session, and VerificationToken in Prisma","shapeType":"roundRect","bbox":[92,404,330,174]}
+{"kind":"shape","slide":3,"id":"11","role":"metric accent: User, Account, Session, and VerificationToken in Prisma","shapeType":"rect","bbox":[92,404,330,7]}
+{"kind":"textbox","slide":3,"id":"12","role":"metric value","text":"4 models","textPreview":"4 models","textChars":8,"textLines":1,"bbox":[114,428,286,54]}
+{"kind":"textbox","slide":3,"id":"13","role":"metric label","text":"User, Account, Session, and VerificationToken in Prisma","textPreview":"User, Account, Session, and VerificationToken in Prisma","textChars":55,"textLines":1,"bbox":[116,486,282,38]}
+{"kind":"textbox","slide":3,"id":"14","role":"metric note","text":"Prisma schema","textPreview":"Prisma schema","textChars":13,"textLines":1,"bbox":[116,536,282,22]}
+{"kind":"shape","slide":3,"id":"15","role":"metric panel: Credentials-based sign-in via Auth.js with JWT session state","shapeType":"roundRect","bbox":[462,404,330,174]}
+{"kind":"shape","slide":3,"id":"16","role":"metric accent: Credentials-based sign-in via Auth.js with JWT session state","shapeType":"rect","bbox":[462,404,330,7]}
+{"kind":"textbox","slide":3,"id":"17","role":"metric value","text":"1 strategy","textPreview":"1 strategy","textChars":10,"textLines":1,"bbox":[484,428,286,54]}
+{"kind":"textbox","slide":3,"id":"18","role":"metric label","text":"Credentials-based sign-in via Auth.js with JWT session state","textPreview":"Credentials-based sign-in via Auth.js with JWT session state","textChars":60,"textLines":1,"bbox":[486,486,282,38]}
+{"kind":"textbox","slide":3,"id":"19","role":"metric note","text":"Auth config","textPreview":"Auth config","textChars":11,"textLines":1,"bbox":[486,536,282,22]}
+{"kind":"shape","slide":3,"id":"20","role":"metric panel: Validation, hashed passwords, and protected route middleware","shapeType":"roundRect","bbox":[832,404,330,174]}
+{"kind":"shape","slide":3,"id":"21","role":"metric accent: Validation, hashed passwords, and protected route middleware","shapeType":"rect","bbox":[832,404,330,7]}
+{"kind":"textbox","slide":3,"id":"22","role":"metric value","text":"3 safeguards","textPreview":"3 safeguards","textChars":12,"textLines":1,"bbox":[854,428,286,54]}
+{"kind":"textbox","slide":3,"id":"23","role":"metric label","text":"Validation, hashed passwords, and protected route middleware","textPreview":"Validation, hashed passwords, and protected route middleware","textChars":60,"textLines":1,"bbox":[856,486,282,38]}
+{"kind":"textbox","slide":3,"id":"24","role":"metric note","text":"App trust flow","textPreview":"App trust flow","textChars":14,"textLines":1,"bbox":[856,536,282,22]}
+{"kind":"image","slide":4,"id":"2","role":"art plate","path":"/Users/socket9/Documents/learn-codex-app/tmp/slides/web-details-deck/pro-reference-images/slide-04.png","bbox":[0,0,1280,720]}
+{"kind":"shape","slide":4,"id":"3","role":"content contrast overlay","shapeType":"rect","bbox":[0,0,1280,720]}
+{"kind":"textbox","slide":4,"id":"4","role":"header","text":"DESIGN SYSTEM","textPreview":"DESIGN SYSTEM","textChars":13,"textLines":1,"bbox":[64,34,430,24]}
+{"kind":"textbox","slide":4,"id":"5","role":"header","text":"04 / 05","textPreview":"04 / 05","textChars":7,"textLines":1,"bbox":[1114,34,104,24]}
+{"kind":"shape","slide":4,"id":"6","role":"header rule","shapeType":"rect","bbox":[64,64,1152,2]}
+{"kind":"shape","slide":4,"id":"7","role":"header marker","shapeType":"ellipse","bbox":[57,57,16,16]}
+{"kind":"textbox","slide":4,"id":"8","role":"title","text":"The interface now feels intentional, consistent, and product-ready","textPreview":"The interface now feels intentional, consistent, and product-ready","textChars":66,"textLines":1,"bbox":[64,86,760,142]}
+{"kind":"textbox","slide":4,"id":"9","role":"subtitle","text":"A shared visual language ties the pages together through typography, color, spacing, and surface treatment instead of relying on default starter styling.","textPreview":"A shared visual language ties the pages together through typography, color, spacing, and surface treatment instead of relying on default starter styling.","textChars":153,"textLines":1,"bbox":[66,234,720,70]}
+{"kind":"shape","slide":4,"id":"10","role":"card panel: Typography","shapeType":"roundRect","bbox":[84,426,355.3333333333333,188]}
+{"kind":"shape","slide":4,"id":"11","role":"card accent: Typography","shapeType":"rect","bbox":[84,426,8,188]}
+{"kind":"shape","slide":4,"id":"12","role":"icon badge","shapeType":"ellipse","bbox":[106,450,54,54]}
+{"kind":"shape","slide":4,"id":"13","role":"icon glyph","shapeType":"rect","bbox":[122,479,6,12]}
+{"kind":"shape","slide":4,"id":"14","role":"icon glyph","shapeType":"rect","bbox":[131,471,6,20]}
+{"kind":"shape","slide":4,"id":"15","role":"icon glyph","shapeType":"rect","bbox":[140,464,6,27]}
+{"kind":"textbox","slide":4,"id":"16","role":"card label","text":"Typography","textPreview":"Typography","textChars":10,"textLines":1,"bbox":[172,448,247.33333333333331,28]}
+{"kind":"textbox","slide":4,"id":"17","role":"card body: Typography","text":"Serif-led headlines and\nclean sans-serif body copy\ncreate stronger hierarchy\nand a more premium tone.","textPreview":"Serif-led headlines and | clean sans-serif body copy | create stronger hierarchy | and a more premium tone.","textChars":101,"textLines":4,"bbox":[108,512,307.3333333333333,80]}
+{"kind":"shape","slide":4,"id":"18","role":"card panel: Surface Design","shapeType":"roundRect","bbox":[463.3333333333333,426,355.3333333333333,188]}
+{"kind":"shape","slide":4,"id":"19","role":"card accent: Surface Design","shapeType":"rect","bbox":[463.3333333333333,426,8,188]}
+{"kind":"shape","slide":4,"id":"20","role":"icon badge","shapeType":"ellipse","bbox":[485.3333333333333,450,54,54]}
+{"kind":"shape","slide":4,"id":"21","role":"icon glyph","shapeType":"ellipse","bbox":[498.3333333333333,468,10,10]}
+{"kind":"shape","slide":4,"id":"22","role":"icon glyph","shapeType":"ellipse","bbox":[516.3333333333333,477,10,10]}
+{"kind":"shape","slide":4,"id":"23","role":"icon glyph","shapeType":"rect","bbox":[507.3333333333333,475,19,3]}
+{"kind":"textbox","slide":4,"id":"24","role":"card label","text":"Surface Design","textPreview":"Surface Design","textChars":14,"textLines":1,"bbox":[551.3333333333333,448,247.33333333333331,28]}
+{"kind":"textbox","slide":4,"id":"25","role":"card body: Surface Design","text":"Glass panels, soft cards,\nlayered gradients, and warm\nneutrals add depth without\nvisual noise.","textPreview":"Glass panels, soft cards, | layered gradients, and warm | neutrals add depth without | visual noise.","textChars":94,"textLines":4,"bbox":[487.3333333333333,512,307.3333333333333,80]}
+{"kind":"shape","slide":4,"id":"26","role":"card panel: Interaction Clarity","shapeType":"roundRect","bbox":[842.6666666666666,426,355.3333333333333,188]}
+{"kind":"shape","slide":4,"id":"27","role":"card accent: Interaction Clarity","shapeType":"rect","bbox":[842.6666666666666,426,8,188]}
+{"kind":"shape","slide":4,"id":"28","role":"icon badge","shapeType":"ellipse","bbox":[864.6666666666666,450,54,54]}
+{"kind":"shape","slide":4,"id":"29","role":"icon glyph","shapeType":"roundRect","bbox":[877.6666666666666,465,26,13]}
+{"kind":"shape","slide":4,"id":"30","role":"icon glyph","shapeType":"roundRect","bbox":[882.6666666666666,474,26,13]}
+{"kind":"shape","slide":4,"id":"31","role":"icon glyph","shapeType":"roundRect","bbox":[887.6666666666666,483,20,10]}
+{"kind":"textbox","slide":4,"id":"32","role":"card label","text":"Interaction Clarity","textPreview":"Interaction Clarity","textChars":19,"textLines":1,"bbox":[930.6666666666666,448,247.33333333333331,28]}
+{"kind":"textbox","slide":4,"id":"33","role":"card body: Interaction Clarity","text":"Clear focus states, stronger\nbuttons, and cleaner\ncomposition make each screen\neasier to use.","textPreview":"Clear focus states, stronger | buttons, and cleaner | composition make each screen | easier to use.","textChars":93,"textLines":4,"bbox":[866.6666666666666,512,307.3333333333333,80]}
+{"kind":"image","slide":5,"id":"2","role":"art plate","path":"/Users/socket9/Documents/learn-codex-app/tmp/slides/web-details-deck/pro-reference-images/slide-05.png","bbox":[0,0,1280,720]}
+{"kind":"shape","slide":5,"id":"3","role":"content contrast overlay","shapeType":"rect","bbox":[0,0,1280,720]}
+{"kind":"textbox","slide":5,"id":"4","role":"header","text":"READINESS","textPreview":"READINESS","textChars":9,"textLines":1,"bbox":[64,34,430,24]}
+{"kind":"textbox","slide":5,"id":"5","role":"header","text":"05 / 05","textPreview":"05 / 05","textChars":7,"textLines":1,"bbox":[1114,34,104,24]}
+{"kind":"shape","slide":5,"id":"6","role":"header rule","shapeType":"rect","bbox":[64,64,1152,2]}
+{"kind":"shape","slide":5,"id":"7","role":"header marker","shapeType":"ellipse","bbox":[57,57,16,16]}
+{"kind":"textbox","slide":5,"id":"8","role":"title","text":"The project is ready for iteration, demos, and feature expansion","textPreview":"The project is ready for iteration, demos, and feature expansion","textChars":64,"textLines":1,"bbox":[64,86,760,142]}
+{"kind":"textbox","slide":5,"id":"9","role":"subtitle","text":"Core quality checks are in place today, and the structure is already organized to support future additions such as profile management, OAuth, analytics, or more protected areas.","textPreview":"Core quality checks are in place today, and the structure is already organized to support future additions such as profile management, OAuth, analytics, or more protected areas.","textChars":177,"textLines":1,"bbox":[66,234,720,70]}
+{"kind":"shape","slide":5,"id":"10","role":"card panel: Verified Now","shapeType":"roundRect","bbox":[84,426,355.3333333333333,188]}
+{"kind":"shape","slide":5,"id":"11","role":"card accent: Verified Now","shapeType":"rect","bbox":[84,426,8,188]}
+{"kind":"shape","slide":5,"id":"12","role":"icon badge","shapeType":"ellipse","bbox":[106,450,54,54]}
+{"kind":"shape","slide":5,"id":"13","role":"icon glyph","shapeType":"rect","bbox":[122,479,6,12]}
+{"kind":"shape","slide":5,"id":"14","role":"icon glyph","shapeType":"rect","bbox":[131,471,6,20]}
+{"kind":"shape","slide":5,"id":"15","role":"icon glyph","shapeType":"rect","bbox":[140,464,6,27]}
+{"kind":"textbox","slide":5,"id":"16","role":"card label","text":"Verified Now","textPreview":"Verified Now","textChars":12,"textLines":1,"bbox":[172,448,247.33333333333331,28]}
+{"kind":"textbox","slide":5,"id":"17","role":"card body: Verified Now","text":"The app already passes\nlinting, production build\nchecks, and a starter Vitest\nsuite.","textPreview":"The app already passes | linting, production build | checks, and a starter Vitest | suite.","textChars":84,"textLines":4,"bbox":[108,512,307.3333333333333,80]}
+{"kind":"shape","slide":5,"id":"18","role":"card panel: Extensible Structure","shapeType":"roundRect","bbox":[463.3333333333333,426,355.3333333333333,188]}
+{"kind":"shape","slide":5,"id":"19","role":"card accent: Extensible Structure","shapeType":"rect","bbox":[463.3333333333333,426,8,188]}
+{"kind":"shape","slide":5,"id":"20","role":"icon badge","shapeType":"ellipse","bbox":[485.3333333333333,450,54,54]}
+{"kind":"shape","slide":5,"id":"21","role":"icon glyph","shapeType":"ellipse","bbox":[498.3333333333333,468,10,10]}
+{"kind":"shape","slide":5,"id":"22","role":"icon glyph","shapeType":"ellipse","bbox":[516.3333333333333,477,10,10]}
+{"kind":"shape","slide":5,"id":"23","role":"icon glyph","shapeType":"rect","bbox":[507.3333333333333,475,19,3]}
+{"kind":"textbox","slide":5,"id":"24","role":"card label","text":"Extensible Structure","textPreview":"Extensible Structure","textChars":20,"textLines":1,"bbox":[551.3333333333333,448,247.33333333333331,28]}
+{"kind":"textbox","slide":5,"id":"25","role":"card body: Extensible Structure","text":"Routing, auth helpers,\nPrisma models, and UI pieces\nare split cleanly enough to\nkeep scaling.","textPreview":"Routing, auth helpers, | Prisma models, and UI pieces | are split cleanly enough to | keep scaling.","textChars":93,"textLines":4,"bbox":[487.3333333333333,512,307.3333333333333,80]}
+{"kind":"shape","slide":5,"id":"26","role":"card panel: Next Opportunities","shapeType":"roundRect","bbox":[842.6666666666666,426,355.3333333333333,188]}
+{"kind":"shape","slide":5,"id":"27","role":"card accent: Next Opportunities","shapeType":"rect","bbox":[842.6666666666666,426,8,188]}
+{"kind":"shape","slide":5,"id":"28","role":"icon badge","shapeType":"ellipse","bbox":[864.6666666666666,450,54,54]}
+{"kind":"shape","slide":5,"id":"29","role":"icon glyph","shapeType":"roundRect","bbox":[877.6666666666666,465,26,13]}
+{"kind":"shape","slide":5,"id":"30","role":"icon glyph","shapeType":"roundRect","bbox":[882.6666666666666,474,26,13]}
+{"kind":"shape","slide":5,"id":"31","role":"icon glyph","shapeType":"roundRect","bbox":[887.6666666666666,483,20,10]}
+{"kind":"textbox","slide":5,"id":"32","role":"card label","text":"Next Opportunities","textPreview":"Next Opportunities","textChars":18,"textLines":1,"bbox":[930.6666666666666,448,247.33333333333331,28]}
+{"kind":"textbox","slide":5,"id":"33","role":"card body: Next Opportunities","text":"Natural next steps include\nprofiles, social sign-in,\naudit history, and\nproduct-specific modules.","textPreview":"Natural next steps include | profiles, social sign-in, | audit history, and | product-specific modules.","textChars":97,"textLines":4,"bbox":[866.6666666666666,512,307.3333333333333,80]}

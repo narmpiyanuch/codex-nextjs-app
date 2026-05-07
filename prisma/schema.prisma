@@ -15,6 +15,7 @@ model User {
   image         String?
   password      String?
   accounts      Account[]
+  bookings      Booking[]
   sessions      Session[]
   createdAt     DateTime  @default(now())
   updatedAt     DateTime  @updatedAt
@@ -52,4 +53,44 @@ model VerificationToken {
   expires    DateTime
 
   @@unique([identifier, token])
+}
+
+model Room {
+  id        String    @id @default(cuid())
+  slug      String    @unique
+  name      String
+  capacity  Int
+  floor     String
+  amenities String
+  image     String
+  bookings  Booking[]
+  createdAt DateTime  @default(now())
+  updatedAt DateTime  @updatedAt
+}
+
+model Booking {
+  id        String    @id @default(cuid())
+  title     String
+  status    String    @default("CONFIRMED")
+  startAt   DateTime
+  endAt     DateTime
+  roomId    String
+  userId    String
+  room      Room      @relation(fields: [roomId], references: [id], onDelete: Cascade)
+  user      User      @relation(fields: [userId], references: [id], onDelete: Cascade)
+  invitees  Invitee[]
+  createdAt DateTime  @default(now())
+  updatedAt DateTime  @updatedAt
+
+  @@index([roomId, startAt, endAt])
+  @@index([userId, startAt])
+}
+
+model Invitee {
+  id        String   @id @default(cuid())
+  name      String
+  email     String?
+  bookingId String
+  booking   Booking  @relation(fields: [bookingId], references: [id], onDelete: Cascade)
+  createdAt DateTime @default(now())
 }
